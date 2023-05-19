@@ -1,5 +1,5 @@
 # CHANGE-TO-YOURNAME-aws-node-http-api-project
-service: aws-node-http-api-project
+service: group-3-node-http-api-project
 frameworkVersion: '3'
 
 provider:
